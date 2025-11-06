@@ -31,10 +31,11 @@
 
 ### ☁️ Cloud & Monitoring
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original-wordmark.svg" width="40" height="40"/>
 </p>
 
 ### 🔧 CI/CD & Versioning
@@ -70,8 +71,11 @@
 
 ## 🌐 Connect with Me
 <p align="left">
-  <a href="https://www.linkedin.com/in/sidya-badji">
+  <a href="[https://www.linkedin.com/in/sidya-badji](https://www.linkedin.com/in/el-hadji-sidya-badji-35a647264/)">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
+  </a>
+  <a href="[https://medium.com/@sidya-badji](https://medium.com/@badjisidya)">
+    <img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white" />
   </a>
   <a href="mailto:badjisidya@yahoo.com">
     <img src="https://img.shields.io/badge/Email-badjisidya%40yahoo.com-red" />
