@@ -71,10 +71,10 @@
 
 ## 🌐 Connect with Me
 <p align="left">
-  <a href="[https://www.linkedin.com/in/sidya-badji](https://www.linkedin.com/in/el-hadji-sidya-badji-35a647264/)">
+  <a href="https://www.linkedin.com/in/el-hadji-sidya-badji-35a647264">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
   </a>
-  <a href="[https://medium.com/@sidya-badji](https://medium.com/@badjisidya)">
+  <a href="https://medium.com/@badjisidya">
     <img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white" />
   </a>
   <a href="mailto:badjisidya@yahoo.com">
