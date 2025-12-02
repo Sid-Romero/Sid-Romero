@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Sidya Badji  
+# Oy, I'm Sidya Badji  
 
 🎓 **Engineering student** in Networks & Telecommunications – *UPSSITECH Toulouse (France)*  
 ☁️ Specializing in **DevOps, Cloud Infrastructure & Observability**  
@@ -6,7 +6,7 @@
 
 ---
 
-## 🚀 Projects
+## Projects
 - **SLO-Guard Platform** — SaaS for progressive delivery using **SLO-based rollbacks**, **Kubernetes**, **Terraform**, **Ansible**, **Prometheus**, **Grafana**, and **Elasticsearch**.  
 - **Edge-DNS-Anycast** — Distributed **DNS Anycast architecture** using **BGP**, **Docker**, and **Ansible** for automated deployment and resilience testing.  
 - **Metrics Dashboard SaaS** — Cloud monitoring dashboards (Grafana, TimescaleDB, Go API) with full IaC provisioning and CI/CD pipelines.
